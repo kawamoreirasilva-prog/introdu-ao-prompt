@@ -15,3 +15,18 @@ nav a {
 nav a:hover {
     background-color: #444;
 }
+
+.sobre {
+    background-color: rgb(127, 206, 38);
+    color: rgb(28, 107, 31);
+    padding: 2rem;
+    text-align: center;
+}
+
+.foto-perfil {
+    width:200px;
+    height:200px;
+    object-fit: cover;
+    border-radius: 50%;
+
+}
